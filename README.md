@@ -15,7 +15,7 @@
 	1000000000               0.04790 ns/op         0 B/op          0 allocs/op
 	PASS
 	ok      slice/slice     0.445s
-
+Возможности слайсов раскрыты здесь: https://github.com/golang/go/wiki/SliceTricks
 
 При использовании односвязного списка (:-1:*benchmark test with linked list*):
 
