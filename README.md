@@ -1,4 +1,4 @@
-### slice-linkedlist_bench
+### slice-linkedlist_benchtest
 
 ### On Russian
 Тема популярного задания на собеседовании: `Дан односвязный список. Нужно удалить N-й элемент с конца.`   
