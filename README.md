@@ -5,7 +5,9 @@
 Здесь результаты `benchmark tests` двух модулей, которые выполняют это задание разными способами в цикле за 1000 итераций.  
 Производительность при использовании среза (:+1:*benchmark test with slice*):
 
-	> go test -bench=.
+	go test -bench=.
+
+>Results:
 
 	goos: windows
 	goarch: amd64
