@@ -1,6 +1,6 @@
 ### slice-linkedlist_benchtest
 
-### On Russian
+### Ru
 Тема популярного задания на собеседовании: `Дан односвязный список. Нужно удалить N-й элемент с конца.`   
 Здесь результаты `benchmark tests` двух модулей, которые выполняют это задание разными способами в цикле за 1000 итераций.  
 Производительность при использовании среза (:+1:*benchmark test with slice*):
@@ -34,7 +34,7 @@
 	PASS
 	ok      linkedlist/linkedlist   2.829s
 
-### On English
+### En
 
 Topic of a popular question on job interview: `Given a singly linked list. Need to remove the Nth element from the end.`  
 Here are the results of the `benchmark tests` of two modules that do this task in different ways in a loop of 1000 iterations.
